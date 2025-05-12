@@ -7,5 +7,5 @@ class Student:
         print(f"Name: {self.name}, Marks: {self.marks}")
 
 # Test
-s1 = Student("Ali", 90)
+s1 = Student("Muzamil", 90)
 s1.display()
